@@ -1,0 +1,7 @@
+﻿  gorenie_gauss.cpp
+C:\Users\Данило\source\repos\gorenie_gauss\gorenie_gauss\gorenie_gauss.cpp(194,58): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Данило\source\repos\gorenie_gauss\gorenie_gauss\gorenie_gauss.cpp(194,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Данило\source\repos\gorenie_gauss\gorenie_gauss\gorenie_gauss.cpp(210,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Данило\source\repos\gorenie_gauss\gorenie_gauss\gorenie_gauss.cpp(210,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Данило\source\repos\gorenie_gauss\gorenie_gauss\gorenie_gauss.cpp(169,12): warning C4101: y: неиспользованная локальная переменная
+  gorenie_gauss.vcxproj -> C:\Users\Данило\source\repos\gorenie_gauss\x64\Debug\gorenie_gauss.exe
